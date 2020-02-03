@@ -6,8 +6,6 @@
 # Editor shows the current color in Tkinter's '#rrggbb' hexadecimal format
 #
 # (c) 2013 PLTW
-# 
-# 
 #####
 import Tkinter
 
