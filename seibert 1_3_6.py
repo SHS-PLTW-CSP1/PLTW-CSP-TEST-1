@@ -9,3 +9,4 @@ def roll_two_dice():
 def pick_letter():
     return random.choice('seibert is awesome')
     print ('test')
+    print('test2')
